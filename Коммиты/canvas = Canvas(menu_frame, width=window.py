@@ -1,0 +1,1 @@
+canvas = Canvas(menu_frame, width=window.winfo_screenwidth(), height=window.winfo_screenheight())
